@@ -26,12 +26,14 @@ public class Player : MonoBehaviour
     {
         if (other.TryGetComponent<Adapter>(out Adapter exitAdapter))
         {
+            if (adapter == null) return;
             if (adapter.Equals(exitAdapter))
                 adapter = null;
         }
     }
     private void OnTriggerEnter(Collider other)
     {
+        Debug.Log("12123");
         other.TryGetComponent<Adapter>(out adapter);
 
     }

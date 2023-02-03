@@ -22,7 +22,6 @@ public class LineManager : MonoBehaviour
 
     private void FixedUpdate()
     {
-        Debug.Log(playerNode + "||" + line.positionCount);
         line.SetPosition(playerNode, player.transform.position);
     }
 

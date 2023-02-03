@@ -400,7 +400,27 @@ MonoBehaviour:
   assetList:
   - Assets/Bakery/examples/content/sponza/bush.FBX
   - Assets/Bakery/examples/content/floor_lamp.FBX
-  uvOverlapAssetList: 00000000ffffffff
+  - Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/AllSky_DemoEnvironment02.fbx
+  - Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/AllSky_DemoEnvironment_Light.fbx
+  - Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/AllSky_DemoEnvironment.fbx
+  - Assets/Customizable Skybox/Model/Low Poly Island.fbx
+  - Assets/Lowpoly_Crates/Meshes/Crate_03.fbx
+  - Assets/Lowpoly_Crates/Meshes/Crate_02.fbx
+  - Assets/Lowpoly_Crates/Meshes/Crate_07.fbx
+  - Assets/Lowpoly_Crates/Meshes/Crate_15.fbx
+  - Assets/Lowpoly_Crates/Meshes/Crate_06.fbx
+  - Assets/Lowpoly_Crates/Meshes/Crate_14.fbx
+  - Assets/Lowpoly_Crates/Meshes/Crate_01.fbx
+  - Assets/Lowpoly_Crates/Meshes/Crate_05.fbx
+  - Assets/Lowpoly_Crates/Meshes/Crate_13.fbx
+  - Assets/Lowpoly_Crates/Meshes/Crate_08.fbx
+  - Assets/Lowpoly_Crates/Meshes/Crate_09.fbx
+  - Assets/Lowpoly_Crates/Meshes/Crate_11.fbx
+  - Assets/Lowpoly_Crates/Meshes/Crate_10.fbx
+  - Assets/Lowpoly_Crates/Meshes/Crate_12.fbx
+  - Assets/Lowpoly_Crates/Meshes/Crate_04.fbx
+  - Assets/SineVFX/TranslucentCrystals/Resources/Meshes/TranslucentCrystal01.obj
+  uvOverlapAssetList: 00000000ffffffff00000000000000000000000001010000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000
   xatlasWarningShown: 0
   foundCompatibleSetup: 0
   gpuName: 

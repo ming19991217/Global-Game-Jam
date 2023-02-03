@@ -1864,6 +1864,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   line: {fileID: 1786957425}
   player: {fileID: 309716696}
+  root: {fileID: 91195793}
 --- !u!120 &1786957425
 LineRenderer:
   m_ObjectHideFlags: 0

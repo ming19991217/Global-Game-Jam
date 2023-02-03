@@ -14,4 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   modifiedAssetPathList:
   - Assets/Bakery/examples/content/sponza/sponza.FBX
-  modifiedAssetPaddingHash: d6a958ff
+  - Assets/Barking_Dog/3D Free Modular Kit/_Meshes/Floor_01.FBX
+  - Assets/Barking_Dog/3D Free Modular Kit/_Meshes/Roof_01.FBX
+  - Assets/Barking_Dog/3D Free Modular Kit/_Meshes/Wall_Simple_01.FBX
+  - Assets/Barking_Dog/3D Free Modular Kit/_Meshes/Light_01.FBX
+  - Assets/Barking_Dog/3D Free Modular Kit/_Meshes/Door_Arch_01.FBX
+  - Assets/Barking_Dog/3D Free Modular Kit/_Meshes/Roof_Door_01.FBX
+  - Assets/Barking_Dog/3D Free Modular Kit/_Meshes/Roof_Angle_01.FBX
+  - Assets/Barking_Dog/3D Free Modular Kit/_Meshes/Floor_Small_01.FBX
+  - Assets/Barking_Dog/3D Free Modular Kit/_Meshes/Wall_Arc_90_02.FBX
+  modifiedAssetPaddingHash: d6a958ffdf4dfff01c7e9363be398033e937ed04885031ee3ec5d890be3980335bc2a69308dc894b

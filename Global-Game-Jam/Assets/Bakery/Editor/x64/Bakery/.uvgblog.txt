@@ -1,0 +1,57 @@
+2023-2-4
+Rendering UV GBuffer for Art_Test_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Art_Test_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for Art_Test_LMA2 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftraceRTX fixpos12 "C:\Users\SunQiana\AppData\Local\Temp\frender" "uvpos_Art_Test_LMA1.lz4" 2 0 1 0
+Running ftraceRTX fixpos12 "C:\Users\SunQiana\AppData\Local\Temp\frender" "uvpos_Art_Test_LM0.lz4" 2 0 0 0
+Running ftraceRTX fixpos12 "C:\Users\SunQiana\AppData\Local\Temp\frender" "uvpos_Art_Test_LMA2.lz4" 2 0 2 0
+Running ftraceRTX addmul "C:\Users\SunQiana\AppData\Local\Temp\frender" "Art_Test_LMA1" 4 0 1 comp_1.bin
+Running ftraceRTX addmul "C:\Users\SunQiana\AppData\Local\Temp\frender" "Art_Test_LM0" 4 0 0 comp_0.bin
+Running ftraceRTX addmul "C:\Users\SunQiana\AppData\Local\Temp\frender" "Art_Test_LMA2" 4 0 2 comp_2.bin
+Running ftraceRTX texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "Art_Test_LMA1_diffuse" 4 16 1 "gi_Art_Test_LMA10.bin" "Art_Test_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "Art_Test_LM0_diffuse" 4 16 0 "gi_Art_Test_LM00.bin" "Art_Test_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "Art_Test_LMA2_diffuse" 4 16 2 "gi_Art_Test_LMA20.bin" "Art_Test_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "Art_Test_LMA1_diffuse" 4 16 1 "gi_Art_Test_LMA11.bin" "Art_Test_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "Art_Test_LM0_diffuse" 4 16 0 "gi_Art_Test_LM01.bin" "Art_Test_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "Art_Test_LMA2_diffuse" 4 16 2 "gi_Art_Test_LMA21.bin" "Art_Test_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "Art_Test_LMA1_diffuse" 4 16 1 "gi_Art_Test_LMA12.bin" "Art_Test_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "Art_Test_LM0_diffuse" 4 16 0 "gi_Art_Test_LM02.bin" "Art_Test_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "Art_Test_LMA2_diffuse" 4 16 2 "gi_Art_Test_LMA22.bin" "Art_Test_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "Art_Test_LMA1_diffuse" 4 16 1 "gi_Art_Test_LMA13.bin" "Art_Test_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "Art_Test_LM0_diffuse" 4 16 0 "gi_Art_Test_LM03.bin" "Art_Test_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "Art_Test_LMA2_diffuse" 4 16 2 "gi_Art_Test_LMA23.bin" "Art_Test_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "Art_Test_LMA1_final" 4 16 1 "gi_Art_Test_LMA14.bin" "Art_Test_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "Art_Test_LM0_final" 4 16 0 "gi_Art_Test_LM04.bin" "Art_Test_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running ftraceRTX texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "Art_Test_LMA2_final" 4 16 2 "gi_Art_Test_LMA24.bin" "Art_Test_LMA2_lights_HDR.lz4" vbTraceTex.bin
+Running denoiserLegacy c "C:\Users\SunQiana\AppData\Local\Temp\frender/Art_Test_LMA1_final_HDR.lz4" "C:\Users\SunQiana\AppData\Local\Temp\frender/Art_Test_LMA1_final_HDR.lz4" 512 0
+Running seamfixer "C:\Users\SunQiana\AppData\Local\Temp\frender" "1" "Art_Test_LMA1_final_HDR.lz4"
+Running denoiserLegacy c "C:\Users\SunQiana\AppData\Local\Temp\frender/Art_Test_LM0_final_HDR.lz4" "C:\Users\SunQiana\AppData\Local\Temp\frender/Art_Test_LM0_final_HDR.lz4" 512 0
+Running seamfixer "C:\Users\SunQiana\AppData\Local\Temp\frender" "0" "Art_Test_LM0_final_HDR.lz4"
+Running denoiserLegacy c "C:\Users\SunQiana\AppData\Local\Temp\frender/Art_Test_LMA2_final_HDR.lz4" "C:\Users\SunQiana\AppData\Local\Temp\frender/Art_Test_LMA2_final_HDR.lz4" 64 0
+Running seamfixer "C:\Users\SunQiana\AppData\Local\Temp\frender" "2" "Art_Test_LMA2_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\SunQiana\AppData\Local\Temp\frender/Art_Test_LMA1_final_HDR.lz4" "F:/Fork/Global-Game-Jam/Global-Game-Jam/Assets/BakeryLightmaps/Art_Test_LMA1_final.hdr" 1024
+Running halffloat2hdr "C:\Users\SunQiana\AppData\Local\Temp\frender/Art_Test_LM0_final_HDR.lz4" "F:/Fork/Global-Game-Jam/Global-Game-Jam/Assets/BakeryLightmaps/Art_Test_LM0_final.hdr" 1024
+Running halffloat2hdr "C:\Users\SunQiana\AppData\Local\Temp\frender/Art_Test_LMA2_final_HDR.lz4" "F:/Fork/Global-Game-Jam/Global-Game-Jam/Assets/BakeryLightmaps/Art_Test_LMA2_final.hdr" 1024
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll

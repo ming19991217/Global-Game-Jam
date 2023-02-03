@@ -47,11 +47,6 @@ sysinfo.txt
 .Trashes
 ehthumbs.db
 Thumbs.db
-<<<<<<< HEAD
 *.sln
 *.csproj
 *.dwlt
-=======
-*.csproj
-*.sln
->>>>>>> Line_Dev

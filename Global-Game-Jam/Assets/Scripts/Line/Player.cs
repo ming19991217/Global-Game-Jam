@@ -24,8 +24,29 @@ namespace Root
             {
                 if (adapter == null) return;
 
-                lineManager.AddNode(adapter.transform.position);
-                controller.SetRoot(adapter.transform);
+                if (!adapter.isConnect)
+                {
+                    var i = lineManager.AddNode(adapter);
+                    controller.SetRoot(adapter.transform);
+                    adapter.Connect(i);
+                }
+                else
+                {
+                    if (lineManager.RemoveNode(adapter, out Adapter last))
+                    {
+                        if (last != null)
+                        {
+                            controller.SetRoot(last.transform);
+                            adapter.DisConnect();
+                        }
+                        else
+                        {
+
+                        }
+                    }
+                }
+
+
             }
         }
 
@@ -40,7 +61,6 @@ namespace Root
         }
         private void OnTriggerEnter(Collider other)
         {
-            Debug.Log("12123");
             other.TryGetComponent<Adapter>(out adapter);
 
         }

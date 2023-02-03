@@ -5,7 +5,27 @@ using UnityEngine;
 public class Adapter : MonoBehaviour
 {
 
+    public bool isConnect;
+    public int lineId;
 
+    public void Connect(int lineId)
+    {
+        if (isConnect == false)
+        {
+            isConnect = true;
+            this.lineId = lineId;
+        }
+    }
+
+    public void DisConnect()
+    {
+        if (isConnect)
+        {
+            isConnect = false;
+            this.lineId = 0;
+        }
+
+    }
 
     private void OnTriggerEnter(Collider other)
     {

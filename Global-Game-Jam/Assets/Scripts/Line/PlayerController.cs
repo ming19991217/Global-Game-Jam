@@ -37,6 +37,7 @@ namespace Root
             //轉向 只轉模型
             model.forward = Vector3.Slerp(model.forward, CameraModeDirection, 0.3f);
 
+
             MoveTo(goPos, isRun, speed);
         }
 

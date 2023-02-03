@@ -7,6 +7,7 @@ public class Adapter : MonoBehaviour
 
     public bool isConnect;
     public int lineId;
+    public bool isRoot;
 
     public void Connect(int lineId)
     {

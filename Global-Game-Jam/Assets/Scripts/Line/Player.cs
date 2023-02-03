@@ -23,8 +23,11 @@ namespace Root
             if (Input.GetKeyDown(KeyCode.Space))
             {
                 if (adapter == null) return;
-
-                if (!adapter.isConnect)
+                if (adapter.isRoot)
+                {
+                    lineManager.ConnectRoot(adapter);
+                }
+                else if (!adapter.isConnect)
                 {
                     var i = lineManager.AddNode(adapter);
                     controller.SetRoot(adapter.transform);
@@ -38,10 +41,6 @@ namespace Root
                         {
                             controller.SetRoot(last.transform);
                             adapter.DisConnect();
-                        }
-                        else
-                        {
-
                         }
                     }
                 }

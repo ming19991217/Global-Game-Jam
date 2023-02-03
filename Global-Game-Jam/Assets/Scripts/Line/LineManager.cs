@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -5,6 +6,10 @@ using UnityEngine;
 public class LineManager : MonoBehaviour
 {
     public static LineManager Instance;
+
+    public static Action<int> OnAddNode;
+    public static Action<int> OnRemoveNode;
+
 
     int playerNode = 1;
 
@@ -22,6 +27,8 @@ public class LineManager : MonoBehaviour
 
         adapters = new();
         adapters.Add(root);
+
+
     }
 
     private void FixedUpdate()
@@ -50,12 +57,26 @@ public class LineManager : MonoBehaviour
         line.SetPositions(newList.ToArray());
         playerNode--;
 
+        OnAddNode?.Invoke(adapters.Count);
+
         return true;
+
+    }
+
+    public void ConnectRoot(Adapter root)
+    {
+        if (LevelManager.Finish)
+        {
+            AddNode(root);
+            LevelManager.Win();
+        }
+
 
     }
 
     public int AddNode(Adapter adapter)
     {
+
         Vector3[] newPos = new Vector3[line.positionCount];
         line.GetPositions(newPos);
 
@@ -69,6 +90,9 @@ public class LineManager : MonoBehaviour
         line.positionCount = posLis.Count;
         line.SetPositions(posLis.ToArray());
         playerNode++;
+
+        OnRemoveNode?.Invoke(adapters.Count);
+
 
         return i;
 

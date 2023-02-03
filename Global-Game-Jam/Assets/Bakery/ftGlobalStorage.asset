@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   modifiedAssetPathList:
   - Assets/Bakery/examples/content/sponza/sponza.FBX
-  modifiedAssetPaddingHash: aaf8cc2e
+  modifiedAssetPaddingHash: d6a958ff
   modifiedMeshList: []
   modifiedMeshPaddingList: 
   modifiedAssets:
@@ -420,7 +420,9 @@ MonoBehaviour:
   - Assets/Lowpoly_Crates/Meshes/Crate_12.fbx
   - Assets/Lowpoly_Crates/Meshes/Crate_04.fbx
   - Assets/SineVFX/TranslucentCrystals/Resources/Meshes/TranslucentCrystal01.obj
-  uvOverlapAssetList: 00000000ffffffff00000000000000000000000001010000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000
+  - Assets/Bakery/examples/content/logolight.FBX
+  - Packages/com.unity.render-pipelines.core/Editor/Resources/DebugProbe.fbx
+  uvOverlapAssetList: 000000000000000000000000000000000000000001010000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000
   xatlasWarningShown: 0
   foundCompatibleSetup: 0
   gpuName: 

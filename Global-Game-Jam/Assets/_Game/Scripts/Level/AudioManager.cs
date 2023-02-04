@@ -15,7 +15,10 @@ public class AudioManager : MonoBehaviour
 
     public void Play(AudioClip clip)
     {
-        audioSource.PlayOneShot(clip);
+        // AudioSource.PlayClipAtPoint(clip, Camera.main.transform.position);
+        audioSource.clip = clip;
+        audioSource.Play();
+        // audioSource.PlayOneShot(clip);
     }
 
 }

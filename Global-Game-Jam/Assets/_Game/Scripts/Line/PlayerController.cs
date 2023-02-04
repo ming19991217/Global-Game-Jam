@@ -15,6 +15,7 @@ namespace Root
         Transform player;
         [SerializeField] float rootLength = 5;
         [SerializeField] Transform root;
+        [SerializeField] public Animator anim;
 
         private void Awake()
         {
@@ -27,6 +28,10 @@ namespace Root
             float horizontal = Input.GetAxis("Horizontal");
             float vertical = Input.GetAxis("Vertical");
             bool isRun = Input.GetKey(KeyCode.LeftShift);
+
+            anim.SetBool("isWalk", false);
+            if (horizontal != 0 || vertical != 0)
+                anim.SetBool("isWalk", true);
 
             move.Set(horizontal, vertical, move.z);
             var speed = Mathf.Sqrt((horizontal * horizontal) + ((vertical * vertical)));

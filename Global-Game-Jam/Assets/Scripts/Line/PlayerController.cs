@@ -62,9 +62,6 @@ namespace Root
             if (player.position.Equals(target))
                 return;
 
-
-
-
             float runAddition = isRun ? runSpeed : 1;
             player.position = Vector3.MoveTowards(player.position, target, speed * moveSpeed * runAddition);
             RopeRestriction();

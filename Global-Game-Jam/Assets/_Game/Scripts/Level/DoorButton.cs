@@ -16,10 +16,10 @@ public class DoorButton : MonoBehaviour
     {
         if (!isClick)
         {
+            AudioManager.Instance.Play(GameManager.Instance.asset.buttonAudio);
             isClick = true;
             door.Check();
             this.GetComponent<Renderer>().material.color = clickColor;
-            AudioManager.Instance.Play(GameManager.Instance.asset.buttonAudio);
         }
         else
         {

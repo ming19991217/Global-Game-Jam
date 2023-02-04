@@ -8,6 +8,7 @@ namespace Root
     {
 
         Adapter adapter;
+        DoorButton button;
         LineManager lineManager;
         PlayerController controller;
 
@@ -22,6 +23,13 @@ namespace Root
         {
             if (Input.GetKeyDown(KeyCode.Space))
             {
+                if (button != null)
+                {
+                    button.Click();
+                    return;
+                }
+
+
                 if (adapter == null) return;
                 if (adapter.isRoot)
                 {
@@ -46,6 +54,9 @@ namespace Root
                 }
 
 
+
+
+
             }
         }
 
@@ -57,10 +68,17 @@ namespace Root
                 if (adapter.Equals(exitAdapter))
                     adapter = null;
             }
+            if (other.TryGetComponent<DoorButton>(out DoorButton exitBtn))
+            {
+                if (button == null) return;
+                if (button.Equals(exitBtn))
+                    button = null;
+            }
         }
         private void OnTriggerEnter(Collider other)
         {
             other.TryGetComponent<Adapter>(out adapter);
+            other.TryGetComponent<DoorButton>(out button);
 
         }
     }

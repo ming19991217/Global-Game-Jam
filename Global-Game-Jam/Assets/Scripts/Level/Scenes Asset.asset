@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c0cb0314c2af7845935d5d4e46e5d8c, type: 3}
+  m_Name: Scenes Asset
+  m_EditorClassIdentifier: 
+  buttonAudio: {fileID: 8300000, guid: 9452ea694701d9748a188fabca49096d, type: 3}
+  openDoorAudio: {fileID: 0}
+  AddNodeAudio: {fileID: 0}
+  RemoveNodeAudio: {fileID: 0}

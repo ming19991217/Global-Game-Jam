@@ -7,6 +7,7 @@ public class DoorButton : MonoBehaviour
     public bool isClick;
     public Door door;
 
+
     public Color clickColor;
 
 
@@ -18,6 +19,7 @@ public class DoorButton : MonoBehaviour
             isClick = true;
             door.Check();
             this.GetComponent<Renderer>().material.color = clickColor;
+            AudioManager.Instance.Play(GameManager.Instance.asset.buttonAudio);
         }
         else
         {

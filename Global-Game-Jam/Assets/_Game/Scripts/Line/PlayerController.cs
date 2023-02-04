@@ -29,7 +29,7 @@ namespace Root
             float vertical = Input.GetAxis("Vertical");
             bool isRun = Input.GetKey(KeyCode.LeftShift);
 
-            anim.SetBool("isWalk", false);
+            // anim.SetBool("isWalk", false);
             if (horizontal != 0 || vertical != 0)
                 anim.SetBool("isWalk", true);
 

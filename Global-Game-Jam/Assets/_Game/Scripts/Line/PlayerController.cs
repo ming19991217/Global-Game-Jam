@@ -29,9 +29,9 @@ namespace Root
             float vertical = Input.GetAxis("Vertical");
             bool isRun = Input.GetKey(KeyCode.LeftShift);
 
-            // anim.SetBool("isWalk", false);
-            // if (horizontal != 0 || vertical != 0)
-            // anim.SetBool("isWalk", true);
+            anim.SetBool("isWalk", false);
+            if (horizontal != 0 || vertical != 0)
+                anim.SetBool("isWalk", true);
 
             move.Set(horizontal, vertical, move.z);
             var speed = Mathf.Sqrt((horizontal * horizontal) + ((vertical * vertical)));

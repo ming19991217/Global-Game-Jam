@@ -42,7 +42,7 @@ namespace Root
                     var i = lineManager.AddNode(adapter);
                     controller.SetRoot(adapter.transform);
                     adapter.Connect(i);
-                    // controller.anim.SetTrigger("touch");
+                    controller.anim.SetTrigger("touch");
                 }
                 else
                 {
@@ -52,7 +52,7 @@ namespace Root
                         {
                             controller.SetRoot(last.transform);
                             adapter.DisConnect();
-                            // controller.anim.SetTrigger("touch");
+                            controller.anim.SetTrigger("touch");
                         }
                     }
                 }

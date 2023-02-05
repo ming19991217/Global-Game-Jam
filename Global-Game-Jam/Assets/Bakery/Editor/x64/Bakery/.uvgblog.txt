@@ -1424,3 +1424,395 @@ Running halffloat2hdr "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA3_f
 Running halffloat2hdr "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA1_final_HDR.lz4" "F:/Fork/Global-Game-Jam/Global-Game-Jam/Assets/BakeryLightmaps/level_LMA1_final.hdr" 1024
 Running halffloat2hdr "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA5_final_HDR.lz4" "F:/Fork/Global-Game-Jam/Global-Game-Jam/Assets/BakeryLightmaps/level_LMA5_final.hdr" 1024
 Running halffloat2hdr "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA4_final_HDR.lz4" "F:/Fork/Global-Game-Jam/Global-Game-Jam/Assets/BakeryLightmaps/level_LMA4_final.hdr" 1024
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+Rendering UV GBuffer for level_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for level_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for level_LMA2 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for level_LMA3 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for level_LMA4 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for level_LMA5 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\SunQiana\AppData\Local\Temp\frender" "uvpos_level_LMA4.lz4" 2 0 4 0
+Running ftrace fixpos12 "C:\Users\SunQiana\AppData\Local\Temp\frender" "uvpos_level_LMA2.lz4" 2 0 2 0
+Running ftrace fixpos12 "C:\Users\SunQiana\AppData\Local\Temp\frender" "uvpos_level_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\SunQiana\AppData\Local\Temp\frender" "uvpos_level_LMA5.lz4" 2 0 5 0
+Running ftrace fixpos12 "C:\Users\SunQiana\AppData\Local\Temp\frender" "uvpos_level_LMA3.lz4" 2 0 3 0
+Running ftrace fixpos12 "C:\Users\SunQiana\AppData\Local\Temp\frender" "uvpos_level_LM0.lz4" 2 0 0 0
+Running ftrace batchpointlight "C:\Users\SunQiana\AppData\Local\Temp\frender" "PointBatch_4_0_0" 4 0 4 batchpointlight_4_0_0.bin
+Running ftrace addmul "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA4" 4 0 4 comp_4.bin
+Running ftrace batchpointlight "C:\Users\SunQiana\AppData\Local\Temp\frender" "PointBatch_2_0_0" 4 0 2 batchpointlight_2_0_0.bin
+Running ftrace addmul "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA2" 4 0 2 comp_2.bin
+Running ftrace batchpointlight "C:\Users\SunQiana\AppData\Local\Temp\frender" "PointBatch_1_0_0" 4 0 1 batchpointlight_1_0_0.bin
+Running ftrace addmul "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA1" 4 0 1 comp_1.bin
+Running ftrace addmul "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA5" 4 0 5 comp_5.bin
+Running ftrace batchpointlight "C:\Users\SunQiana\AppData\Local\Temp\frender" "PointBatch_3_0_0" 4 0 3 batchpointlight_3_0_0.bin
+Running ftrace addmul "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA3" 4 0 3 comp_3.bin
+Running ftrace batchpointlight "C:\Users\SunQiana\AppData\Local\Temp\frender" "PointBatch_0_0_0" 4 0 0 batchpointlight_0_0_0.bin
+Running ftrace addmul "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LM0" 4 0 0 comp_0.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA4_diffuse" 4 16 4 "gi_level_LMA40.bin" "level_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA2_diffuse" 4 16 2 "gi_level_LMA20.bin" "level_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA1_diffuse" 4 16 1 "gi_level_LMA10.bin" "level_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA5_diffuse" 4 16 5 "gi_level_LMA50.bin" "level_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA3_diffuse" 4 16 3 "gi_level_LMA30.bin" "level_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LM0_diffuse" 4 16 0 "gi_level_LM00.bin" "level_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA4_diffuse" 4 16 4 "gi_level_LMA41.bin" "level_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA2_diffuse" 4 16 2 "gi_level_LMA21.bin" "level_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA1_diffuse" 4 16 1 "gi_level_LMA11.bin" "level_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA5_diffuse" 4 16 5 "gi_level_LMA51.bin" "level_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA3_diffuse" 4 16 3 "gi_level_LMA31.bin" "level_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LM0_diffuse" 4 16 0 "gi_level_LM01.bin" "level_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA4_diffuse" 4 16 4 "gi_level_LMA42.bin" "level_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA2_diffuse" 4 16 2 "gi_level_LMA22.bin" "level_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA1_diffuse" 4 16 1 "gi_level_LMA12.bin" "level_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA5_diffuse" 4 16 5 "gi_level_LMA52.bin" "level_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA3_diffuse" 4 16 3 "gi_level_LMA32.bin" "level_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LM0_diffuse" 4 16 0 "gi_level_LM02.bin" "level_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA4_diffuse" 4 16 4 "gi_level_LMA43.bin" "level_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA2_diffuse" 4 16 2 "gi_level_LMA23.bin" "level_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA1_diffuse" 4 16 1 "gi_level_LMA13.bin" "level_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA5_diffuse" 4 16 5 "gi_level_LMA53.bin" "level_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA3_diffuse" 4 16 3 "gi_level_LMA33.bin" "level_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LM0_diffuse" 4 16 0 "gi_level_LM03.bin" "level_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA4_final" 4 16 4 "gi_level_LMA44.bin" "level_LMA4_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA2_final" 4 16 2 "gi_level_LMA24.bin" "level_LMA2_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA1_final" 4 16 1 "gi_level_LMA14.bin" "level_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA5_final" 4 16 5 "gi_level_LMA54.bin" "level_LMA5_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA3_final" 4 16 3 "gi_level_LMA34.bin" "level_LMA3_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LM0_final" 4 16 0 "gi_level_LM04.bin" "level_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiserLegacy c "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA4_final_HDR.lz4" "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA4_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\SunQiana\AppData\Local\Temp\frender" "4" "level_LMA4_final_HDR.lz4"
+Running denoiserLegacy c "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA2_final_HDR.lz4" "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA2_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\SunQiana\AppData\Local\Temp\frender" "2" "level_LMA2_final_HDR.lz4"
+Running denoiserLegacy c "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA1_final_HDR.lz4" "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA1_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\SunQiana\AppData\Local\Temp\frender" "1" "level_LMA1_final_HDR.lz4"
+Running denoiserLegacy c "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA5_final_HDR.lz4" "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA5_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\SunQiana\AppData\Local\Temp\frender" "5" "level_LMA5_final_HDR.lz4"
+Running denoiserLegacy c "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA3_final_HDR.lz4" "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA3_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\SunQiana\AppData\Local\Temp\frender" "3" "level_LMA3_final_HDR.lz4"
+Running denoiserLegacy c "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LM0_final_HDR.lz4" "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LM0_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\SunQiana\AppData\Local\Temp\frender" "0" "level_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA4_final_HDR.lz4" "F:/Fork/Global-Game-Jam/Global-Game-Jam/Assets/BakeryLightmaps/level_LMA4_final.hdr" 1024
+Running halffloat2hdr "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA2_final_HDR.lz4" "F:/Fork/Global-Game-Jam/Global-Game-Jam/Assets/BakeryLightmaps/level_LMA2_final.hdr" 1024
+Running halffloat2hdr "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA1_final_HDR.lz4" "F:/Fork/Global-Game-Jam/Global-Game-Jam/Assets/BakeryLightmaps/level_LMA1_final.hdr" 1024
+Running halffloat2hdr "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA5_final_HDR.lz4" "F:/Fork/Global-Game-Jam/Global-Game-Jam/Assets/BakeryLightmaps/level_LMA5_final.hdr" 1024
+Running halffloat2hdr "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA3_final_HDR.lz4" "F:/Fork/Global-Game-Jam/Global-Game-Jam/Assets/BakeryLightmaps/level_LMA3_final.hdr" 1024
+Running halffloat2hdr "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LM0_final_HDR.lz4" "F:/Fork/Global-Game-Jam/Global-Game-Jam/Assets/BakeryLightmaps/level_LM0_final.hdr" 1024
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for level_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for level_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for level_LMA2 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for level_LMA3 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for level_LMA4 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for level_LMA5 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\SunQiana\AppData\Local\Temp\frender" "uvpos_level_LMA4.lz4" 2 0 4 0
+Running ftrace fixpos12 "C:\Users\SunQiana\AppData\Local\Temp\frender" "uvpos_level_LMA2.lz4" 2 0 2 0
+Running ftrace fixpos12 "C:\Users\SunQiana\AppData\Local\Temp\frender" "uvpos_level_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\SunQiana\AppData\Local\Temp\frender" "uvpos_level_LMA5.lz4" 2 0 5 0
+Running ftrace fixpos12 "C:\Users\SunQiana\AppData\Local\Temp\frender" "uvpos_level_LMA3.lz4" 2 0 3 0
+Running ftrace fixpos12 "C:\Users\SunQiana\AppData\Local\Temp\frender" "uvpos_level_LM0.lz4" 2 0 0 0
+Running ftrace batchpointlight "C:\Users\SunQiana\AppData\Local\Temp\frender" "PointBatch_4_0_0" 4 0 4 batchpointlight_4_0_0.bin
+Running ftrace addmul "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA4" 4 0 4 comp_4.bin
+Running ftrace batchpointlight "C:\Users\SunQiana\AppData\Local\Temp\frender" "PointBatch_2_0_0" 4 0 2 batchpointlight_2_0_0.bin
+Running ftrace addmul "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA2" 4 0 2 comp_2.bin
+Running ftrace batchpointlight "C:\Users\SunQiana\AppData\Local\Temp\frender" "PointBatch_1_0_0" 4 0 1 batchpointlight_1_0_0.bin
+Running ftrace addmul "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA1" 4 0 1 comp_1.bin
+Running ftrace addmul "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA5" 4 0 5 comp_5.bin
+Running ftrace batchpointlight "C:\Users\SunQiana\AppData\Local\Temp\frender" "PointBatch_3_0_0" 4 0 3 batchpointlight_3_0_0.bin
+Running ftrace addmul "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA3" 4 0 3 comp_3.bin
+Running ftrace batchpointlight "C:\Users\SunQiana\AppData\Local\Temp\frender" "PointBatch_0_0_0" 4 0 0 batchpointlight_0_0_0.bin
+Running ftrace addmul "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LM0" 4 0 0 comp_0.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA4_diffuse" 4 16 4 "gi_level_LMA40.bin" "level_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA2_diffuse" 4 16 2 "gi_level_LMA20.bin" "level_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA1_diffuse" 4 16 1 "gi_level_LMA10.bin" "level_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA5_diffuse" 4 16 5 "gi_level_LMA50.bin" "level_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA3_diffuse" 4 16 3 "gi_level_LMA30.bin" "level_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LM0_diffuse" 4 16 0 "gi_level_LM00.bin" "level_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA4_diffuse" 4 16 4 "gi_level_LMA41.bin" "level_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA2_diffuse" 4 16 2 "gi_level_LMA21.bin" "level_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA1_diffuse" 4 16 1 "gi_level_LMA11.bin" "level_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA5_diffuse" 4 16 5 "gi_level_LMA51.bin" "level_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA3_diffuse" 4 16 3 "gi_level_LMA31.bin" "level_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LM0_diffuse" 4 16 0 "gi_level_LM01.bin" "level_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA4_diffuse" 4 16 4 "gi_level_LMA42.bin" "level_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA2_diffuse" 4 16 2 "gi_level_LMA22.bin" "level_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA1_diffuse" 4 16 1 "gi_level_LMA12.bin" "level_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA5_diffuse" 4 16 5 "gi_level_LMA52.bin" "level_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA3_diffuse" 4 16 3 "gi_level_LMA32.bin" "level_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LM0_diffuse" 4 16 0 "gi_level_LM02.bin" "level_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA4_diffuse" 4 16 4 "gi_level_LMA43.bin" "level_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA2_diffuse" 4 16 2 "gi_level_LMA23.bin" "level_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA1_diffuse" 4 16 1 "gi_level_LMA13.bin" "level_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA5_diffuse" 4 16 5 "gi_level_LMA53.bin" "level_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA3_diffuse" 4 16 3 "gi_level_LMA33.bin" "level_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LM0_diffuse" 4 16 0 "gi_level_LM03.bin" "level_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA4_final" 4 16 4 "gi_level_LMA44.bin" "level_LMA4_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA2_final" 4 16 2 "gi_level_LMA24.bin" "level_LMA2_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA1_final" 4 16 1 "gi_level_LMA14.bin" "level_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA5_final" 4 16 5 "gi_level_LMA54.bin" "level_LMA5_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA3_final" 4 16 3 "gi_level_LMA34.bin" "level_LMA3_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LM0_final" 4 16 0 "gi_level_LM04.bin" "level_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiserLegacy c "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA4_final_HDR.lz4" "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA4_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\SunQiana\AppData\Local\Temp\frender" "4" "level_LMA4_final_HDR.lz4"
+Running denoiserLegacy c "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA2_final_HDR.lz4" "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA2_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\SunQiana\AppData\Local\Temp\frender" "2" "level_LMA2_final_HDR.lz4"
+Running denoiserLegacy c "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA1_final_HDR.lz4" "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA1_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\SunQiana\AppData\Local\Temp\frender" "1" "level_LMA1_final_HDR.lz4"
+Running denoiserLegacy c "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA5_final_HDR.lz4" "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA5_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\SunQiana\AppData\Local\Temp\frender" "5" "level_LMA5_final_HDR.lz4"
+Running denoiserLegacy c "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA3_final_HDR.lz4" "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA3_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\SunQiana\AppData\Local\Temp\frender" "3" "level_LMA3_final_HDR.lz4"
+Running denoiserLegacy c "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LM0_final_HDR.lz4" "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LM0_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\SunQiana\AppData\Local\Temp\frender" "0" "level_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA4_final_HDR.lz4" "F:/Fork/Global-Game-Jam/Global-Game-Jam/Assets/BakeryLightmaps/level_LMA4_final.hdr" 1024
+Running halffloat2hdr "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA2_final_HDR.lz4" "F:/Fork/Global-Game-Jam/Global-Game-Jam/Assets/BakeryLightmaps/level_LMA2_final.hdr" 1024
+Running halffloat2hdr "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA1_final_HDR.lz4" "F:/Fork/Global-Game-Jam/Global-Game-Jam/Assets/BakeryLightmaps/level_LMA1_final.hdr" 1024
+Running halffloat2hdr "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA5_final_HDR.lz4" "F:/Fork/Global-Game-Jam/Global-Game-Jam/Assets/BakeryLightmaps/level_LMA5_final.hdr" 1024
+Running halffloat2hdr "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA3_final_HDR.lz4" "F:/Fork/Global-Game-Jam/Global-Game-Jam/Assets/BakeryLightmaps/level_LMA3_final.hdr" 1024
+Running halffloat2hdr "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LM0_final_HDR.lz4" "F:/Fork/Global-Game-Jam/Global-Game-Jam/Assets/BakeryLightmaps/level_LM0_final.hdr" 1024
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Done
+Rendering UV GBuffer for level_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for level_LMA1 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for level_LMA2 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for level_LMA3 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for level_LMA4 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for level_LMA5 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\SunQiana\AppData\Local\Temp\frender" "uvpos_level_LMA4.lz4" 2 0 4 0
+Running ftrace fixpos12 "C:\Users\SunQiana\AppData\Local\Temp\frender" "uvpos_level_LMA2.lz4" 2 0 2 0
+Running ftrace fixpos12 "C:\Users\SunQiana\AppData\Local\Temp\frender" "uvpos_level_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\SunQiana\AppData\Local\Temp\frender" "uvpos_level_LMA5.lz4" 2 0 5 0
+Running ftrace fixpos12 "C:\Users\SunQiana\AppData\Local\Temp\frender" "uvpos_level_LMA3.lz4" 2 0 3 0
+Running ftrace fixpos12 "C:\Users\SunQiana\AppData\Local\Temp\frender" "uvpos_level_LM0.lz4" 2 0 0 0
+Running ftrace addmul "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA4" 4 0 4 comp_4.bin
+Running ftrace addmul "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA2" 4 0 2 comp_2.bin
+Running ftrace addmul "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA1" 4 0 1 comp_1.bin
+Running ftrace addmul "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA5" 4 0 5 comp_5.bin
+Running ftrace addmul "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA3" 4 0 3 comp_3.bin
+Running ftrace addmul "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LM0" 4 0 0 comp_0.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA4_diffuse" 4 16 4 "gi_level_LMA40.bin" "level_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA2_diffuse" 4 16 2 "gi_level_LMA20.bin" "level_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA1_diffuse" 4 16 1 "gi_level_LMA10.bin" "level_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA5_diffuse" 4 16 5 "gi_level_LMA50.bin" "level_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA3_diffuse" 4 16 3 "gi_level_LMA30.bin" "level_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LM0_diffuse" 4 16 0 "gi_level_LM00.bin" "level_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA4_diffuse" 4 16 4 "gi_level_LMA41.bin" "level_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA2_diffuse" 4 16 2 "gi_level_LMA21.bin" "level_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA1_diffuse" 4 16 1 "gi_level_LMA11.bin" "level_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA5_diffuse" 4 16 5 "gi_level_LMA51.bin" "level_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA3_diffuse" 4 16 3 "gi_level_LMA31.bin" "level_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LM0_diffuse" 4 16 0 "gi_level_LM01.bin" "level_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA4_diffuse" 4 16 4 "gi_level_LMA42.bin" "level_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA2_diffuse" 4 16 2 "gi_level_LMA22.bin" "level_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA1_diffuse" 4 16 1 "gi_level_LMA12.bin" "level_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA5_diffuse" 4 16 5 "gi_level_LMA52.bin" "level_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA3_diffuse" 4 16 3 "gi_level_LMA32.bin" "level_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LM0_diffuse" 4 16 0 "gi_level_LM02.bin" "level_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA4_diffuse" 4 16 4 "gi_level_LMA43.bin" "level_LMA4_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA2_diffuse" 4 16 2 "gi_level_LMA23.bin" "level_LMA2_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA1_diffuse" 4 16 1 "gi_level_LMA13.bin" "level_LMA1_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA5_diffuse" 4 16 5 "gi_level_LMA53.bin" "level_LMA5_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA3_diffuse" 4 16 3 "gi_level_LMA33.bin" "level_LMA3_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LM0_diffuse" 4 16 0 "gi_level_LM03.bin" "level_LM0_diffuse0_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA4_final" 4 16 4 "gi_level_LMA44.bin" "level_LMA4_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA2_final" 4 16 2 "gi_level_LMA24.bin" "level_LMA2_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA1_final" 4 16 1 "gi_level_LMA14.bin" "level_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA5_final" 4 16 5 "gi_level_LMA54.bin" "level_LMA5_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LMA3_final" 4 16 3 "gi_level_LMA34.bin" "level_LMA3_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\SunQiana\AppData\Local\Temp\frender" "level_LM0_final" 4 16 0 "gi_level_LM04.bin" "level_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiserLegacy c "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA4_final_HDR.lz4" "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA4_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\SunQiana\AppData\Local\Temp\frender" "4" "level_LMA4_final_HDR.lz4"
+Running denoiserLegacy c "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA2_final_HDR.lz4" "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA2_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\SunQiana\AppData\Local\Temp\frender" "2" "level_LMA2_final_HDR.lz4"
+Running denoiserLegacy c "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA1_final_HDR.lz4" "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA1_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\SunQiana\AppData\Local\Temp\frender" "1" "level_LMA1_final_HDR.lz4"
+Running denoiserLegacy c "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA5_final_HDR.lz4" "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA5_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\SunQiana\AppData\Local\Temp\frender" "5" "level_LMA5_final_HDR.lz4"
+Running denoiserLegacy c "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA3_final_HDR.lz4" "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA3_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\SunQiana\AppData\Local\Temp\frender" "3" "level_LMA3_final_HDR.lz4"
+Running denoiserLegacy c "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LM0_final_HDR.lz4" "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LM0_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\SunQiana\AppData\Local\Temp\frender" "0" "level_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA4_final_HDR.lz4" "F:/Fork/Global-Game-Jam/Global-Game-Jam/Assets/BakeryLightmaps/level_LMA4_final.hdr" 1024
+Running halffloat2hdr "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA2_final_HDR.lz4" "F:/Fork/Global-Game-Jam/Global-Game-Jam/Assets/BakeryLightmaps/level_LMA2_final.hdr" 1024
+Running halffloat2hdr "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA1_final_HDR.lz4" "F:/Fork/Global-Game-Jam/Global-Game-Jam/Assets/BakeryLightmaps/level_LMA1_final.hdr" 1024
+Running halffloat2hdr "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA5_final_HDR.lz4" "F:/Fork/Global-Game-Jam/Global-Game-Jam/Assets/BakeryLightmaps/level_LMA5_final.hdr" 1024
+Running halffloat2hdr "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LMA3_final_HDR.lz4" "F:/Fork/Global-Game-Jam/Global-Game-Jam/Assets/BakeryLightmaps/level_LMA3_final.hdr" 1024
+Running halffloat2hdr "C:\Users\SunQiana\AppData\Local\Temp\frender/level_LM0_final_HDR.lz4" "F:/Fork/Global-Game-Jam/Global-Game-Jam/Assets/BakeryLightmaps/level_LM0_final.hdr" 1024
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image F:\Fork\Global-Game-Jam\Global-Game-Jam\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll

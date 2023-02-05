@@ -5,7 +5,7 @@ using UnityEngine;
 public class DoorButton : MonoBehaviour
 {
     public bool isClick;
-    public Door door;
+    [HideInInspector] public Door door;
 
 
     public Color clickColor;

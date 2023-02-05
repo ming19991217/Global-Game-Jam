@@ -68,7 +68,6 @@ public class LineManager : MonoBehaviour
         if (LevelManager.Finish)
         {
             AddNode(root);
-            LevelManager.Win();
         }
 
 

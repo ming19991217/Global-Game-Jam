@@ -24,6 +24,7 @@ namespace Root
         {
             if (Input.GetKeyDown(KeyCode.Space))
             {
+                if (LevelManager.Finish) return;
                 if (button != null)
                 {
                     button.Click();
@@ -36,6 +37,11 @@ namespace Root
                 if (adapter.isRoot)
                 {
                     lineManager.ConnectRoot(adapter);
+                }
+                else if (adapter.isEnded)
+                {
+                    LevelManager.Win();
+                    return;
                 }
                 else if (!adapter.isConnect)
                 {

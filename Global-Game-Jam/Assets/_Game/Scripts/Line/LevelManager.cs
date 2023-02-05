@@ -16,6 +16,7 @@ public class LevelManager : MonoBehaviour
     public static void Win()
     {
         WinEvent?.Invoke();
+        Finish = true;
     }
 
     private void Start()
@@ -34,10 +35,7 @@ public class LevelManager : MonoBehaviour
 
     void UpdateUI(int index)
     {
-        index = index - 1;
-        CountUI.text = index + "/" + MaxCount;
-        if (index == MaxCount) Finish = true;
-        else Finish = false;
+
     }
 
 

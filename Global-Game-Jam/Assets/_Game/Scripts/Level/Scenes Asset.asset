@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Scenes Asset
   m_EditorClassIdentifier: 
   buttonAudio: {fileID: 8300000, guid: 10e2af8b06ad31543af212b0c2b1677c, type: 3}
-  openDoorAudio: {fileID: 8300000, guid: 6a13030ecf349ba438624b5d5173e51d, type: 3}
-  AddNodeAudio: {fileID: 8300000, guid: 2b00dbe634c1d2143be7f326fc699c25, type: 3}
-  RemoveNodeAudio: {fileID: 8300000, guid: 660bf1eb524783e4796f4fe3c19a0565, type: 3}
+  openDoorAudio: {fileID: 0}
+  AddNodeAudio: {fileID: 0}
+  RemoveNodeAudio: {fileID: 0}

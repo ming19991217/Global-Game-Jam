@@ -5,12 +5,13 @@ using UnityEngine;
 public class Door : MonoBehaviour
 {
     [SerializeField] DoorButton[] buttons;
+    public LightManerger lightManerger;
 
 
 
 
     private void Awake()
-    {
+    {      
         foreach (var item in buttons)
         {
             item.door = this;
@@ -33,8 +34,8 @@ public class Door : MonoBehaviour
     void OpenDoor()
     {
         Debug.LogError("OPen~");
-        GameManager.Instance.PlayOpenDoor();
         gameObject.SetActive(false);
+        lightManerger.isOpen = true;
     }
 
 

@@ -45,7 +45,6 @@ namespace Root
                 }
                 else if (!adapter.isConnect)
                 {
-                    GameManager.Instance.PlayAddNodeAudio();
                     var i = lineManager.AddNode(adapter);
                     controller.SetRoot(adapter.transform);
                     adapter.Connect(i);
@@ -57,8 +56,6 @@ namespace Root
                     {
                         if (last != null)
                         {
-
-                            GameManager.Instance.PlayRemoveNodeAudio();
                             controller.SetRoot(last.transform);
                             adapter.DisConnect();
                             controller.anim.SetTrigger("touch");

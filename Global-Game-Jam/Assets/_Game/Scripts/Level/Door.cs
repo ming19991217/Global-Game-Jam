@@ -33,6 +33,7 @@ public class Door : MonoBehaviour
     void OpenDoor()
     {
         Debug.LogError("OPen~");
+        GameManager.Instance.PlayOpenDoor();
         gameObject.SetActive(false);
     }
 

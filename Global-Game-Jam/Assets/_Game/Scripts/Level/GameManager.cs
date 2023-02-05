@@ -20,6 +20,23 @@ public class GameManager : MonoBehaviour
             Destroy(this);
         }
     }
+    public void PlayAddNodeAudio()
+    {
+        if (Camera.main.TryGetComponent<AudioSource>(out AudioSource source))
+        {
+            source.PlayOneShot(asset.AddNodeAudio);
+        }
+    }
+    public void PlayOpenDoor()
+    {
+        if (Camera.main.TryGetComponent<AudioSource>(out AudioSource source))
+            source.PlayOneShot(asset.openDoorAudio);
+    }
+    public void PlayRemoveNodeAudio()
+    {
+        if (Camera.main.TryGetComponent<AudioSource>(out AudioSource source))
+            source.PlayOneShot(asset.AddNodeAudio);
+    }
 
     public void LoadGame()
     {
